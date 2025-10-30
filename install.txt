@@ -1,0 +1,8 @@
+Install-Module -Name PSRule
+Import-Module PSRule
+
+Install-Module -Name PSRule.Rules.Azure
+Import-Module PSRule.Rules.Azure
+
+Install-Module -Name PSRule.Rules.CAF
+Import-Module PSRule.Rules.CAF

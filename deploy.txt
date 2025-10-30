@@ -1,0 +1,5 @@
+# Deploy resources
+.\deploy.ps1 -location "swedencentral" -TemplateFileName ".\infrastructure\main.bicep" -ParameterFileName ".\infrastructure\main.dev"
+
+# Remove resources
+Remove-AzResourceGroup -Name "rg-demo-ps-rule-dev"

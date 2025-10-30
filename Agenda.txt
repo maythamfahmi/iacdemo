@@ -1,0 +1,15 @@
+Om Maytham Fahmi
+Maytham Fahmi er Senior Architect hos Fellowmind med speciale i Application Modernization, DevOps og Infrastructure as Code.
+Han har over 15 års erfaring med softwareudvikling, cloud og automatisering – særligt på Microsoft Azure-platformen.
+Maytham hjælper virksomheder med at modernisere applikationer og skabe effektive DevOps-processer.
+Han har en stærk teknisk baggrund i .NET / C# og certificeringer som Azure Developer (AZ-204) og Azure DevOps Engineer (AZ-400).
+Gennem sin karriere har han arbejdet med kunder inden for finans, forsikring, ejendom og telekommunikation.
+I dette webinar deler Maytham sine erfaringer med, hvordan Infrastructure as Code kan gøre udvikling og drift mere effektivt og robust.
+
+
+Punkt                           Varighed        Indhold
+
+Introduktion til IaC                5 min       Kort præsentation af konceptet Infrastructure as Code (PowerPoint-intro)
+Live demo                      ca. 25 min       Gennemgang af et konkret eksempel på IaC ved brugen af Bicep i praksis – fra opsætning til deployment. Undervejs gives der praktiske indsigter og refleksioner.
+Erfaringer og bedste praksis        5 min       Opsummering af erfaringer og vigtige pointer fra demoen.
+Q&A                                10 min       Spørgsmål fra deltagerne og åben dialog.

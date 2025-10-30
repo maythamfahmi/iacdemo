@@ -1,0 +1,34 @@
+Bicep Installation
+https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/install#azure-powershell
+
+Bicep documentation | Microsoft Learn
+https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/
+
+Storage
+https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/quickstart-create-template-specs?tabs=azure-powershell
+
+Storage Account Language, Version
+https://learn.microsoft.com/en-us/azure/templates/microsoft.storage/2025-06-01/storageaccounts?pivots=deployment-language-bicep
+
+Bicep file structure and syntax
+https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/file
+
+Deployment
+New-AzDeployment
+https://learn.microsoft.com/en-us/powershell/module/az.resources/new-azdeployment?view=azps-14.5.0
+
+az deployment
+https://learn.microsoft.com/en-us/cli/azure/deployment?view=azure-cli-latest
+
+deployment debugging
+https://portal.azure.com/#@nextbix.dk/resource/subscriptions/321fca3c-dbe8-4ce7-98a3-8145b43fa992/subdeployments
+
+PSRule controls
+https://microsoft.github.io/PSRule/stable/
+https://azure.github.io/PSRule.Rules.Azure/en/rules/
+
+Deploy via Azure DevOps and Version Control
+example
+https://dev.azure.com/nextbix/Infrastructure/_build?definitionId=153
+version tagging
+https://dev.azure.com/nextbix/Infrastructure/_git/Infrastructure/tags
